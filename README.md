@@ -57,7 +57,7 @@ class Samarth:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,c,git,github,jupyter,vscode&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=python,r,c,git,github,vscode&theme=dark" alt="tools" />
 
 <br/><br/>
 
