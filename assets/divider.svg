@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="presentation">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7dd3fc" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 20 C 150 4, 300 36, 450 20 S 750 4, 900 20 S 1100 34, 1200 20" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M0 20 C 150 4, 300 36, 450 20 S 750 4, 900 20 S 1100 34, 1200 20" fill="none" stroke="#7dd3fc" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 16">
+    <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="600" cy="20" r="4" fill="#2dd4bf"><animate attributeName="r" values="3;5.5;3" dur="2.6s" repeatCount="indefinite"/></circle>
+</svg>
